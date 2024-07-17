@@ -17,17 +17,17 @@ Education
 
 Honors
 ======
-The Stars of Self-improvement of Chinese College Students (Innovation and Entrepreneurship)
-THU Future Scholar PhD Scholar Programme (only 1～2 persons/faculty)
-HIT President's Medal (only 5 persons every two years/university)
-HIT Youth May Fourth Medal (only 1～2 persons/university)
-National Scholarship etc.
+* The Stars of Self-improvement of Chinese College Students (Innovation and Entrepreneurship)
+* THU Future Scholar PhD Scholar Programme (only 1～2 persons/faculty)
+* HIT President's Medal (only 5 persons every two years/university)
+* HIT Youth May Fourth Medal (only 1～2 persons/university)
+* National Scholarship etc.
 
 Awards
 ======
-World Robot Contest(Hosted by NNSF) - Tri-Co Robots Challenge(Coexisting-Cooperative-Cognitive Robots) Final champion 
-China Robotics and Artificial Intelligence Competition (Hosted by CAAI) Final champion 
-National College Student Innovation Conference(Hosted by Ministry of Education, China) Final champion 
+* World Robot Contest(Hosted by NNSF) - Tri-Co Robots Challenge(Coexisting-Cooperative-Cognitive Robots) Final champion 
+* China Robotics and Artificial Intelligence Competition (Hosted by CAAI) Final champion 
+* National College Student Innovation Conference(Hosted by Ministry of Education, China) Final champion 
 
 
 
