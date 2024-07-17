@@ -11,9 +11,25 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Artificial Intelligence, Tsinghua University, 2028 (expected)
+* B.S. in Robotics, Harbin Institute of Technology, 2023
+
+
+Honors
+======
+The Stars of Self-improvement of Chinese College Students (Innovation and Entrepreneurship)
+THU Future Scholar PhD Scholar Programme (only 1～2 persons/faculty)
+HIT President's Medal (only 5 persons every two years/university)
+HIT Youth May Fourth Medal (only 1～2 persons/university)
+National Scholarship etc.
+
+Awards
+======
+World Robot Contest(Hosted by NNSF) - Tri-Co Robots Challenge(Coexisting-Cooperative-Cognitive Robots) Final champion 
+China Robotics and Artificial Intelligence Competition (Hosted by CAAI) Final champion 
+National College Student Innovation Conference(Hosted by Ministry of Education, China) Final champion 
+
+
 
 Work experience
 ======

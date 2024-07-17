@@ -26,3 +26,8 @@ Shentao Qin\*, Yujie Yang\*, Yao Mu\*, Jie Li, Wenjun Zou, Shengbo Eben Li, Jing
 [Project Page](https://jackqin007.github.io/FRPI/) |
 [Code](https://github.com/JackQin007/FRPI) |
 [Poster](https://www.researchgate.net/publication/381995027_FRPI_Posterpdf)
+
+# Lift force of wheel quasi-static rolling locomotion in granular material based on dynamic buoyancy 
+*Science Advances (under review)*, 2024\
+
+
